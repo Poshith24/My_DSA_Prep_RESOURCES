@@ -1,4 +1,4 @@
-# My_DSA_Prep_RESOURCES
+# MY_RESOURCES_FOR_LEARNING
 
 This is the playlist where I am learning DSA in JAVA.
 
