@@ -16,4 +16,8 @@ ref - https://youtu.be/BSVKUk58K6U
 
 ref - https://www.youtube.com/watch?v=_Ya6CN13t8k&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=38
 
+In this week i learned about properties of oops - Inheritance,Polymorphism,Abstraction,Encapsulation and data hiding.
+
+ref - https://youtu.be/46T2wD3IuhM
+
 
