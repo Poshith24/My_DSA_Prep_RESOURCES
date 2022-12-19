@@ -1,0 +1,1 @@
+<a href="https://stackoverflow.com/questions/260666/can-an-abstract-class-have-a-constructor">hello</a>
